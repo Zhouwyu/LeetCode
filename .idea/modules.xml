@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BalanceBinaryTree/BalanceBinaryTree.iml" filepath="$PROJECT_DIR$/BalanceBinaryTree/BalanceBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTreeTraversal/BinaryTreeTraversal.iml" filepath="$PROJECT_DIR$/BinaryTreeTraversal/BinaryTreeTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountNodes/CountNodes.iml" filepath="$PROJECT_DIR$/CountNodes/CountNodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvalRPN/EvalRPN.iml" filepath="$PROJECT_DIR$/EvalRPN/EvalRPN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvertTree/InvertTree.iml" filepath="$PROJECT_DIR$/InvertTree/InvertTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsSymmetric/IsSymmetric.iml" filepath="$PROJECT_DIR$/IsSymmetric/IsSymmetric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxDepth/MaxDepth.iml" filepath="$PROJECT_DIR$/MaxDepth/MaxDepth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinDepth/MinDepth.iml" filepath="$PROJECT_DIR$/MinDepth/MinDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyQueue/MyQueue.iml" filepath="$PROJECT_DIR$/MyQueue/MyQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/MyStack/MyStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicate/RemoveDuplicate.iml" filepath="$PROJECT_DIR$/RemoveDuplicate/RemoveDuplicate.iml" />
